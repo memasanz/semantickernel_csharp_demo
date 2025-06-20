@@ -1,0 +1,7 @@
+{
+  "type": "azure",
+  "model": "gpt-4.1",
+  "endpoint": "https://foundry.openai.azure.com/",
+  "apikey": "PUT YOUR API KEY HERE",
+  "org": ""
+}
